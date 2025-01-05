@@ -1,0 +1,6 @@
+@article{REPO195,
+    author = "Guo, Hang and Guo, Yong and Zha, Yaohua and Zhang, Yulun and Li, Wenbo and Dai, Tao and Xia, Shu-Tao and Li, Yawei",
+    journal = "arXiv preprint arXiv:2411.15269",
+    title = "{MambaIRv2: Attentive State Space Restoration}",
+    year = "2024"
+}
